@@ -35,4 +35,5 @@ This function is used by the contract manager to select a winner. It verifies th
 
 - Gas Fees: Participants should be aware of the gas fees associated with sending transactions to the Ethereum network.
 
+### Note 
 Remember that smart contracts handle real value, so security and careful consideration of contract logic are crucial.
